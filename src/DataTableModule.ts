@@ -23,6 +23,6 @@ import {BootstrapPaginator} from "./BootstrapPaginator";
         BootstrapPaginator
     ]
 })
-export class DataTableModule {
+export default class DataTableModule {
 
 }
