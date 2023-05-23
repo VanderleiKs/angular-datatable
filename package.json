@@ -34,12 +34,13 @@
   },
   "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
   "devDependencies": {
-    "@angular/core": "^7.2.16",
-    "@angular/compiler": "^7.2.16",
-    "@angular/common": "^7.2.16",
-    "@angular/platform-browser": "^7.2.16",
-    "@angular/platform-browser-dynamic": "^7.2.16",
-    "@angular/compiler-cli": "^7.2.16",
+    "@angular/core": "^8.2.14",
+    "@angular/compiler": "^8.2.14",
+    "@angular/common": "^8.2.14",
+    "@angular/platform-browser": "^8.2.14",
+    "@angular/platform-browser-dynamic": "^8.2.14",
+    "@angular/compiler-cli": "^8.2.14",
+    "codelyzer": "^5.0.1",
     "core-js": "^2.5.5",
     "http-server": "^0.11.1",
     "jasmine-core": "^2.8.0",
@@ -52,14 +53,14 @@
     "remap-istanbul": "^0.10.1",
     "rxjs": "^6.6.7",
     "systemjs": "^0.21.3",
-    "typescript": "3.2.4",
-    "zone.js": "^0.8.29",
+    "typescript": "3.5.3",
+    "zone.js": "~0.9.1",
     "rimraf": "^2.6.2",
     "@types/lodash": "4.14.108",
     "@types/jasmine": "^2.8.7"
   },
   "dependencies": {
-    "@angular/cli": "^7.3.10",
+    "@angular/cli": "^8.3.29",
     "lodash": "^4.0.0"
   },
   "peerDependencies": {}
