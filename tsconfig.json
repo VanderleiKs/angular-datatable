@@ -18,7 +18,9 @@
       "es2015"
     ]
   },
+  
   "angularCompilerOptions": {
+    "enableIvy": false,
     "genDir": "../aot",
     "skipMetadataEmit": false
   }

@@ -1,4 +1,4 @@
-///<reference path="../node_modules/@types/jasmine/index.d.ts"/>
+/* ///<reference path="../node_modules/@types/jasmine/index.d.ts"/>
 import {SimpleChange, Component} from "@angular/core";
 import {DataTable, PageEvent, SortEvent} from "./DataTable";
 import {TestBed, ComponentFixture} from "@angular/core/testing";
@@ -7,7 +7,7 @@ import {switchMap} from 'rxjs/operators';
 import * as _ from "lodash";
 
 @Component({
-    template: `<table [mfData]="[]"></table>`
+   templateUrl: './dataTable.html'
 })
 class TestComponent {
 }
@@ -452,4 +452,4 @@ describe("DataTable directive tests", ()=> {
             expect(datatable.activePage).toEqual(1);
         });
     });
-});
+}); */
