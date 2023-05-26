@@ -1,7 +1,7 @@
 {
-  "name": "angular-datatable",
+  "name": "angular-9-datatable",
   "version": "1.0.0",
-  "description": "DataTable component for Angular framework 7",
+  "description": "DataTable component for Angular framework 9",
   "main": "index.js",
   "scripts": {
     "prebuild": "rimraf lib",
@@ -20,7 +20,6 @@
   },
   "keywords": [
     "angular",
-    "angular6",
     "ng",
     "ng2",
     "table",
@@ -30,9 +29,6 @@
   ],
   "author": "khan.abdul1@outlook.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
-  },
   "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
   "devDependencies": {
     "@angular/core": "^9.1.13",
